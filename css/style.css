@@ -10,6 +10,7 @@
     transition: .2s linear;
 }
 
+
 .back-btn{
     display: block;
     width: fit-content;
@@ -71,7 +72,7 @@ section{
 }
 
 .container .box-container .box p{
-    color: green;
+    /* color: green; */
     font-size: 15px;
     line-height: 1.8;
 }
